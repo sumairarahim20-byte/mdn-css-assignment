@@ -1,0 +1,21 @@
+header {
+  width: 100%;
+}
+nav {
+  font-size: 14px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+nav a {
+  margin-left: 25px;
+}
+.coontent {
+  width: 65%;
+}
+
+.sidebar-left {
+  display: none;
+}
+.sidebar-right {
+  width: 35%;
+}

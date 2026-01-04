@@ -1,0 +1,43 @@
+body {
+  font-size: 14px;
+}
+.topbar {
+  display: none;
+}
+header {
+  height: auto;
+  justify-content: space-between;
+}
+.header-left {
+  display: flex;
+}
+
+nav {
+  display: none;
+}
+.search {
+  width: 150px;
+}
+
+.fa-bars {
+  width: 50px;
+  padding-bottom: 10px;
+  display: block;
+}
+section {
+  height: 60px;
+  justify-content: space-between;
+  align-items: center;
+}
+.main {
+  flex-direction: column;
+}
+.content {
+  width: 100%;
+}
+.sidebar-right {
+  width: 100%;
+  position: static;
+  height: auto;
+  margin-top: 10px;
+}
